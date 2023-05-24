@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCircle.Logic", "MVCCircle.Logic\MVCCircle.Logic.csproj", "{58FF9CE6-AAF1-47AE-B73A-A4ECB78B3D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCircle.WinApp", "MVCCircle.WinApp\MVCCircle.WinApp.csproj", "{AD5DB915-16BF-4CC1-A6B2-F888C55B59AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FF9CE6-AAF1-47AE-B73A-A4ECB78B3D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FF9CE6-AAF1-47AE-B73A-A4ECB78B3D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FF9CE6-AAF1-47AE-B73A-A4ECB78B3D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FF9CE6-AAF1-47AE-B73A-A4ECB78B3D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5DB915-16BF-4CC1-A6B2-F888C55B59AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5DB915-16BF-4CC1-A6B2-F888C55B59AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5DB915-16BF-4CC1-A6B2-F888C55B59AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5DB915-16BF-4CC1-A6B2-F888C55B59AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F37D9A2-A2FA-4B43-A90B-9686604B47E7}
+	EndGlobalSection
+EndGlobal
